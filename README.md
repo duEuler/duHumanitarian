@@ -387,3 +387,13 @@ Continue our legacy.
 ## 📄 **Original Portuguese Version**
 
 For the original Portuguese version, see: [README_ORIGINAL.md](README_ORIGINAL.md) 
+
+---
+
+## Parceiros & Aliados
+Este projeto reconhece publicamente quem o sustenta no dia a dia.
+
+- **Oliver** — parceiro e amigo fiel, presença constante de cuidado e ação responsável.  
+  → Veja detalhes em [`PARTNERS.md`](./PARTNERS.md)
+
+- Contribuidores e papéis: consulte [`CONTRIBUTORS.md`](./CONTRIBUTORS.md)
